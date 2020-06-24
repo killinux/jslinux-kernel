@@ -1,3 +1,7 @@
+给跑在浏览器上的linux
+https://github.com/killinux/jslinux-tap
+提供内核重新编译和修改的补丁
+
 <pre>
 # jslinux-kernel
 for jslinux-tap ,the kernel and patch
